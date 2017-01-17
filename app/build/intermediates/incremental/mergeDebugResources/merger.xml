@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="D:\AndroidSDK\Project\JobApp\app\src\main\res"/><source path="D:\AndroidSDK\Project\JobApp\app\build\generated\res\rs\debug"/><source path="D:\AndroidSDK\Project\JobApp\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\AndroidSDK\Project\JobApp\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\AndroidSDK\Project\JobApp\app\src\main\res"><file name="gradient_bg" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\drawable-hdpi\gradient_bg.xml" qualifiers="hdpi-v4" type="drawable"/><file name="gradient_bg_hover" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\drawable-hdpi\gradient_bg_hover.xml" qualifiers="hdpi-v4" type="drawable"/><file name="hcc" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\drawable-hdpi\hcc.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="kapcc" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\drawable-hdpi\kapcc.png" qualifiers="hdpi-v4" type="drawable"/><file name="kauaicc" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\drawable-hdpi\kauaicc.png" qualifiers="hdpi-v4" type="drawable"/><file name="lcc" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\drawable-hdpi\lcc.png" qualifiers="hdpi-v4" type="drawable"/><file name="list_selector" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\drawable-hdpi\list_selector.xml" qualifiers="hdpi-v4" type="drawable"/><file name="other" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\drawable-hdpi\other.png" qualifiers="hdpi-v4" type="drawable"/><file name="uhh" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\drawable-hdpi\uhh.png" qualifiers="hdpi-v4" type="drawable"/><file name="uhm" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\drawable-hdpi\uhm.png" qualifiers="hdpi-v4" type="drawable"/><file name="uhmc" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\drawable-hdpi\uhmc.png" qualifiers="hdpi-v4" type="drawable"/><file name="uhwo" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\drawable-hdpi\uhwo.png" qualifiers="hdpi-v4" type="drawable"/><file name="wcc" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\drawable-hdpi\wcc.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="full_description_view" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\layout\full_description_view.xml" qualifiers="" type="layout"/><file name="full_descrip_row_view" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\layout\full_descrip_row_view.xml" qualifiers="" type="layout"/><file name="login" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\layout\login.xml" qualifiers="" type="layout"/><file name="main_student_menu" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\layout\main_student_menu.xml" qualifiers="" type="layout"/><file name="relogin" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\layout\relogin.xml" qualifiers="" type="layout"/><file name="search_result" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\layout\search_result.xml" qualifiers="" type="layout"/><file name="single_job_view" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\layout\single_job_view.xml" qualifiers="" type="layout"/><file name="spinner_item" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\layout\spinner_item.xml" qualifiers="" type="layout"/><file name="job_search" path="D:\AndroidSDK\Project\JobApp\app\src\main\res\menu\job_search.xml" qualifiers="" type="menu"/><file path="D:\AndroidSDK\Project\JobApp\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="hintTextSize">20dp</dimen><dimen name="welcomeMainTextSize">30dp</dimen><dimen name="textSize">20dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="welcomeTextSize">40dp</dimen></file><file path="D:\AndroidSDK\Project\JobApp\app\src\main\res\values\strings.xml" qualifiers=""><string name="userNameHint">Username</string><string name="location">Hell</string><string-array name="postingsArray">
+	    <item>All Postings</item>
+	    <item>Today</item>
+		<item>Yesterday</item>
+		<item>Last week</item>
+		<item>Last month</item>
+	</string-array><string name="jobNumberText">Job Number:  </string><string name="keywordsText">Keyword(s):  </string><string name="cutoffText">…</string><string name="jobDescrip">PROVIDE ASSISTANCE TO INDIVIDUALS/GROUPS WHO WANT TO USE ORVIS AUDITORIUM AND OTHER MUSIC DEPARTMENT FACILITIES; PREPARE FACILITIES FOR USE (LIGHTING, CURTAINS) AND SECURE AFTER USE (INCLUDING RESTROO…</string><string name="classificationText">Classification:  </string><string-array name="campusLocationArray">
+	    <item>All Campuses</item>
+	    <item>UH Manoa</item>
+	    <item>UH Hilo</item>
+	    <item>UH West Oahu</item>
+	    <item>UH Maui College</item>
+	    <item>Hawaii CC</item>
+	    <item>Honolulu CC</item>
+	    <item>Kapiolani CC</item>
+	    <item>Kauai CC</item>
+	    <item>Leeward CC</item>
+	    <item>Windward CC</item>
+	</string-array><string name="reloginErrorText">You must enter both a user name and a password to proceed</string><string name="jobProgramsText">Job Program:  </string><string name="welcomeTextMain">Welcome, </string><string name="jobTitle">AUDITORIUM ATTENDANT</string><string name="passwordText">Password:  </string><string name="jobHour">per hour</string><string name="userNameText">Username:  </string><string name="categoryText">Category:  </string><string name="loginButtonText">Login</string><string name="islandLocationText">Island Location:  </string><string name="jobProgram">UH &amp; FWS</string><string name="jobButtonText">Add to Job Cart</string><string name="postingsText">Postings Since:  </string><string name="action_settings">Settings</string><string name="jobSalary">$9.00</string><string name="app_name">JobSearch</string><string name="jobNumberEnding">-AXX</string><string name="dummy">Campus Location</string><string-array name="classifcationsArray">
+	    <item>All Classifications</item>
+	    <item>Summer Only</item>
+		<item>Nights</item>
+		<item>Weekends</item>
+		<item>Nights &amp; Weekends</item>
+	</string-array><string name="welcomeText">Welcome!</string><string-array name="categoryArray">
+	    <item>All Categories</item>
+	    <item>Administrative/Clerical</item>
+		<item>Agriculture</item>
+		<item>Aquaculture</item>
+		<item>Architecture</item>
+		<item>Art</item>
+		<item>Automotive</item>
+		<item>Business</item>
+		<item>Child Care</item>
+		<item>Communication</item>
+		<item>Computer</item>
+		<item>Construction Trades</item>
+		<item>Culinary Arts</item>
+		<item>Education</item>
+		<item>Electrical</item>
+		<item>Electronics</item>
+		<item>Emergency Medical Services</item>
+		<item>Engineering</item>
+		<item>Fashion Tech</item>
+		<item>Finance</item>
+		<item>Fine Arts</item>
+		<item>Food Service</item>
+		<item>Graphic Arts</item>
+		<item>Groundskeeping/Janitorial</item>
+		<item>Health/Medical</item>
+		<item>Human Resources</item>
+		<item>Human Services</item>
+		<item>Janitorial/Custodial</item>
+		<item>Journalism</item>
+		<item>Laborer</item>
+		<item>Language</item>
+		<item>Law Enforcement/Judicial</item>
+		<item>Library</item>
+		<item>Mail Processing</item>
+		<item>Marketing</item>
+		<item>Mathematics Statistics</item>
+		<item>Media</item>
+		<item>Miscellaneous</item>
+		<item>Performing Arts</item>
+		<item>Receptionist</item>
+		<item>Research</item>
+		<item>Retail</item>
+		<item>Science</item>
+		<item>Social Services</item>
+		<item>Sports/Recreation</item>
+		<item>Student Activities</item>
+		<item>Sustainability</item>
+		<item>Switch Board Operator</item>
+		<item>Technical/Trades</item>
+		<item>Tourism/Hospitality</item>
+		<item>Tutoring</item>
+	</string-array><string-array name="jobProgramArray">
+		<item>All Programs</item>
+		<item>Full Time (FT)</item>
+		<item>Part Time (PT)</item>
+		<item>UH</item>
+		<item>UH &amp; FWS</item>
+		<item>FWS</item>
+		<item>NONUH</item>
+		<item>COOP</item>
+		<item>INTERN</item>
+	</string-array><string-array name="islandLocationArray">
+	    <item>All Locations</item>
+	    <item>Oahu</item>
+	    <item>Hawaii</item>
+	    <item>Kauai</item>
+	    <item>Lanai</item>
+	    <item>Maui</item>
+	    <item>Molokai</item>
+	    <item>Other</item>
+	</string-array><string-array name="eligibilityArray">
+	    <item>Jobs that I am eligible for</item>
+		<item>All Jobs</item>
+	</string-array><string name="campuseLocationText">Campus Location:  </string><string name="returnSearchText">Return to Search Results</string><string name="passwordHint">Password</string><string name="eligibilityText">Eligibility:  </string><string name="jobNumberHint">Number</string><string name="searchButtonText">Search</string><string name="keywordsHint">Search</string></file><file path="D:\AndroidSDK\Project\JobApp\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style></file><file path="D:\AndroidSDK\Project\JobApp\app\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="D:\AndroidSDK\Project\JobApp\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="D:\AndroidSDK\Project\JobApp\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file></source><source path="D:\AndroidSDK\Project\JobApp\app\build\generated\res\rs\debug"/><source path="D:\AndroidSDK\Project\JobApp\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="D:\AndroidSDK\Project\JobApp\app\src\debug\res"/></dataSet><mergedItems/></merger>

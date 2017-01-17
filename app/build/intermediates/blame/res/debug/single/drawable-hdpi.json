@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\AndroidSDK\\Project\\JobApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lcc.png",
+        "source": "D:\\AndroidSDK\\Project\\JobApp\\app\\src\\main\\res\\drawable-hdpi\\lcc.png"
+    },
+    {
+        "merged": "D:\\AndroidSDK\\Project\\JobApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\kapcc.png",
+        "source": "D:\\AndroidSDK\\Project\\JobApp\\app\\src\\main\\res\\drawable-hdpi\\kapcc.png"
+    },
+    {
+        "merged": "D:\\AndroidSDK\\Project\\JobApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wcc.png",
+        "source": "D:\\AndroidSDK\\Project\\JobApp\\app\\src\\main\\res\\drawable-hdpi\\wcc.png"
+    },
+    {
+        "merged": "D:\\AndroidSDK\\Project\\JobApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\hcc.png",
+        "source": "D:\\AndroidSDK\\Project\\JobApp\\app\\src\\main\\res\\drawable-hdpi\\hcc.png"
+    },
+    {
+        "merged": "D:\\AndroidSDK\\Project\\JobApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\uhmc.png",
+        "source": "D:\\AndroidSDK\\Project\\JobApp\\app\\src\\main\\res\\drawable-hdpi\\uhmc.png"
+    },
+    {
+        "merged": "D:\\AndroidSDK\\Project\\JobApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\uhwo.png",
+        "source": "D:\\AndroidSDK\\Project\\JobApp\\app\\src\\main\\res\\drawable-hdpi\\uhwo.png"
+    },
+    {
+        "merged": "D:\\AndroidSDK\\Project\\JobApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\other.png",
+        "source": "D:\\AndroidSDK\\Project\\JobApp\\app\\src\\main\\res\\drawable-hdpi\\other.png"
+    },
+    {
+        "merged": "D:\\AndroidSDK\\Project\\JobApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\kauaicc.png",
+        "source": "D:\\AndroidSDK\\Project\\JobApp\\app\\src\\main\\res\\drawable-hdpi\\kauaicc.png"
+    },
+    {
+        "merged": "D:\\AndroidSDK\\Project\\JobApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\uhm.png",
+        "source": "D:\\AndroidSDK\\Project\\JobApp\\app\\src\\main\\res\\drawable-hdpi\\uhm.png"
+    },
+    {
+        "merged": "D:\\AndroidSDK\\Project\\JobApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\AndroidSDK\\Project\\JobApp\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidSDK\\Project\\JobApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\uhh.png",
+        "source": "D:\\AndroidSDK\\Project\\JobApp\\app\\src\\main\\res\\drawable-hdpi\\uhh.png"
+    }
+]

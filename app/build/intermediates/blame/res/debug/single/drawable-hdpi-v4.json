@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidSDK\\Project\\JobApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_selector.xml",
+        "source": "D:\\AndroidSDK\\Project\\JobApp\\app\\src\\main\\res\\drawable-hdpi\\list_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidSDK\\Project\\JobApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gradient_bg.xml",
+        "source": "D:\\AndroidSDK\\Project\\JobApp\\app\\src\\main\\res\\drawable-hdpi\\gradient_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidSDK\\Project\\JobApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gradient_bg_hover.xml",
+        "source": "D:\\AndroidSDK\\Project\\JobApp\\app\\src\\main\\res\\drawable-hdpi\\gradient_bg_hover.xml"
+    }
+]

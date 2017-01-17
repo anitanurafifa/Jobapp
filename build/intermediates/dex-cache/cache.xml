@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\AndroidSDK\Project\JobApp\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_91f5c31930175b7860fe0f87febc4f6b571bd292.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidSDK\Project\JobApp\app\libs\jsoup-1.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="872693211fd68d1c4e116cf90021603207725e19">
+        <dex dex="D:\AndroidSDK\Project\JobApp\app\build\intermediates\pre-dexed\debug\jsoup-1.7.2_f60b67326fc9b07a63fb9038394a89f3e2d8cedd.jar" />
+    </item>
+
+</items>
